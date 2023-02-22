@@ -14,9 +14,23 @@ public class GerenciarReserva {
     public void realizarReserva(){
    }
     
+    public void selecionarQuadra (){
+        
+    }
+    
+    public void selecionarData (){
+        
+    }
+   
     public void cancelarReservaUsuario(){
         
 }
+    
+    public void reservarHorarios (){
+        
+    }
+    
+    
       public void cancelarReservaAdministrador(){
         
 }
@@ -24,6 +38,14 @@ public class GerenciarReserva {
           
       }
     
+    
+    public void listarHorariosVagos (){
+        
+    }
+    
+    public void listarHorariosOcupados (){
+        
+    }
     
    
 }
